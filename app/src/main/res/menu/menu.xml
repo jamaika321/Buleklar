@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/popular"
+            android:title="Популярное"/>
+        <item android:id="@+id/man"
+            android:title="@string/man"/>
+        <item android:id="@+id/woman"
+            android:title="@string/woman"/>
+        <item android:id="@+id/child"
+            android:title="@string/child"/>
+
+    </group>
+
+</menu>

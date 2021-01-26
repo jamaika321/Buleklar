@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="popular">
+        <item>Pisk</item>
+        <item>Pisk</item>
+        <item>Pisk</item>
+    </string-array>
+    <string-array name="popular_price">
+        <item>6969</item>
+        <item>6969</item>
+        <item>6969</item>
+    </string-array>
+    <string-array name="popular_structure">
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+    </string-array>
+    <string-array name="popular_image">
+        <item>@drawable/jentelman</item>
+        <item>@drawable/yaschik</item>
+        <item>@drawable/nastoyaschemu</item>
+    </string-array>
+
+    <string-array name="man">
+        <item>Мужской 1</item>
+        <item>Мужской 1</item>
+        <item>Мужской 1</item>
+    </string-array>
+    <string-array name="man_price">
+        <item>999999</item>
+        <item>999999</item>
+        <item>999999</item>
+    </string-array>
+    <string-array name="man_structure">
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+    </string-array>
+
+    <string-array name="woman">
+        <item>Женский 1</item>
+        <item>Женский 1</item>
+        <item>Женский 1</item>
+    </string-array>
+    <string-array name="woman_price">
+        <item>999999</item>
+        <item>999999</item>
+        <item>999999</item>
+    </string-array>
+    <string-array name="woman_structure">
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+    </string-array>
+
+    <string-array name="child">
+        <item>Детский 1</item>
+        <item>Детский 1</item>
+        <item>Детский 1</item>
+    </string-array>
+    <string-array name="child_price">
+        <item>999999</item>
+        <item>999999</item>
+        <item>999999</item>
+    </string-array>
+    <string-array name="child_structure">
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+        <item>Будет здорово, если вы напишете свои впечатления о товаре.
+Это поможет другим покупателям</item>
+    </string-array>
+</resources>
